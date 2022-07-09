@@ -1,0 +1,25 @@
+* {
+  padding: 5px;
+  background-color: rgb(216, 203, 188);
+}
+
+.fullnamelabel,
+.mobilenolabel,
+.emaillabel {
+  color: rgb(8, 112, 98);
+  font-weight: bolder;
+  text-decoration: solid;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.submitstyle {
+  color: rgb(8, 112, 98);
+  background-color: rgb(81, 211, 215);
+  padding: 6px 6px;
+  border-radius: 10px;
+  border: 2px double rgb(28, 204, 151);
+  font-weight: bolder;
+  text-decoration: solid;
+  text-shadow: 2px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
